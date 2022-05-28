@@ -1,0 +1,11 @@
+
+Showing Recent Messages
+Couldn’t get revision ‘master^{commit}’:
+
+
+Kingfisher
+
+Fetching from https://github.com/onevcat/Kingfisher (cached)
+
+
+Resolving Package Graph Failed    27.05.2022 17:51    30.0 seconds
